@@ -10,3 +10,5 @@ This custom docker image is used to build hugo static websites. It contains the 
     - xlsx2csv
     - requests
     - icalendar
+
+Updated 4/17/2022

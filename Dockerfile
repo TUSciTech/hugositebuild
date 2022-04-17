@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 LABEL maintainer="Vinodh Ganesan <cst.it@temple.edu>"
-LABEL version="1.0"
+LABEL version="1.1"
 
 # ruby-html-proofer needs tzdata, why ???
 # https://dev.to/setevoy/docker-configure-tzdata-and-timezone-during-build-20bk
